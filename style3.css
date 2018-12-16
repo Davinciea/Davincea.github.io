@@ -1,0 +1,35 @@
+body {
+	margin:50px auto;
+	line-height:1.5;
+	font-size:18px;
+	color:#514f4f;
+	padding:0px 10px;
+	margin: 40px 100px;
+	font-family: Serif;
+	}
+
+h1,h2,h3{line-height:1}
+
+.cv {
+	color :#53c68c;
+}
+
+a {	color: #19569C;}
+
+ul.megaliste {
+    list-style-type:none;
+    font-family: monospace;
+}
+
+.chat {
+	box-sizing: border-box;
+	margin: 10px auto 10px;
+	padding: 10px;
+	width: 120%;
+    min-height: 300px;
+}
+.pictureLeft{
+	border: none;
+	float: left;
+	margin-right: 40px;
+}
